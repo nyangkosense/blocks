@@ -1,4 +1,4 @@
-# dwmstatus - suckless status bar
+# zblocks
 
 A simple status bar for dwm written in Zig.
 
