@@ -18,8 +18,8 @@ A simple status bar for dwm written in Zig.
 ## Installation
 
 ```
-zig build-exe dwmstatus.zig -O ReleaseFast
-cp dwmstatus /usr/local/bin/
+zig build-exe zblocks.zig -O ReleaseFast
+cp zblocks /usr/local/bin/
 ```
 
 ## Usage
